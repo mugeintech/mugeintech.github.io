@@ -1,14 +1,3 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# H1 Muge Uysal
+## H2 This is my portfolio
 
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
